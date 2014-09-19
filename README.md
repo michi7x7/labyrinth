@@ -1,0 +1,4 @@
+labyrinth
+=========
+
+Haskell ncurses labyrinth
